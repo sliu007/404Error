@@ -8,16 +8,11 @@ export default function App() {
       <img src={M} alt="M" className="blurry" />
       <div className="lamp">
         <div className="lava">
-          <div className="blob"></div>
-          <div className="blob"></div>
-          <div className="blob"></div>
-          <div className="blob"></div>
-          <div className="blob"></div>
-          <div className="blob"></div>
-          <div className="blob"></div>
-          <div className="mblob"></div>
-          <div className="blob top"></div>
-          <div className="blob bottom"></div>
+          <div className="blobP"></div>
+          <div className="blobP"></div>
+          <div className="blobP"></div>
+          <div className="blobP"></div>
+          <div className="blobP"></div>
         </div>
       </div>
       <svg xmlns="http://www.w3.org/2000/svg" version="1.1" className="blurry">
